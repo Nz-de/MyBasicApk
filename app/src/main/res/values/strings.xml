@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Games List</string>
+    <string name="game_name">Nama Game</string>
+    <string name="detail">Detail Game</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">About</string>
+</resources>
